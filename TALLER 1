@@ -11,35 +11,37 @@
 </head>
 <body>
 
-<div class="container-fluid">
+ <div class="container-fluid">
+    <div class="row">
+     <img class="img-fluid" src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg" alt="WW" >
+    </div>
   
-   <img class="img-fluid" src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg" alt="WW" width: 100%>
 
-  
-<div class="container-fluid">
-  <div class="row">
-    <div class="col bg-dark text-white">
+   <div class="row">
+     <div class="col bg-dark text-white">
       <h3>introduccion</h3>
       Hemos analizado los datos y hemos determinado cuáles son los factores más importantes que llevan a la victoria para cada posición de campeón, y como resultado, ponderamos nuestro algoritmo de manera diferente para cada rol. Nuestro análisis considera numerosos factores que van más allá de las tasas de ganancias simples, incluidos el daño, la utilidad, la dificultad, etc. Por ejemplo, nuestras recomendaciones para ADC están orientadas hacia mayores defensores de daños, mientras que el daño es mucho menos importante para nuestras recomendaciones de soporte. Del mismo modo, los campeones de la jungla que pueden contrarrestar de manera efectiva la jungla y la división tienen una clasificación más alta en nuestra lista de niveles de la Liga que aquellos que tienen más dificultades para ir solos. Para evitar que nuestra lista de niveles de campeones se sobrecargue, no incluimos a los de peor desempeño en cada función.
       
+     </div>
+     <div class="col bg-primary text-white">
+       <h3>Lista</h3>
+         <ol>
+       <li>Ekko</li>
+       <li>Graves</li>
+       <li>Kayn</li>
+       <li>Fiddlesticks</li>
+       <li>Zac</li>
+       <li>Warwick</li>
+       <li>Volibear</li>
+       <li>Maestro Yi</li>
+       <li>Elise</li>
+       <li>Olaf</li>
+       </ol> 
+      </div>
     </div>
-    <div class="col bg-primary text-white">
-      <h3>Lista</h3>
-       <ol>
-      <li>Ekko</li>
-      <li>Graves</li>
-      <li>Kayn</li>
-      <li>Fiddlesticks</li>
-      <li>Zac</li>
-      <li>Warwick</li>
-      <li>Volibear</li>
-      <li>Maestro Yi</li>
-      <li>Elise</li>
-      <li>Olaf</li>
-    </ol> 
-    </div>
+ </div>
     
-  </div>
+  
 </div>
 
 </body>
