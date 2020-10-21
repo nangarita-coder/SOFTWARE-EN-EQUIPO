@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+ <div class="row">
+   <div class="col-lg-4">
+     <img src="https://1.bp.blogspot.com/-s-f35hgQT5I/WFqHcV_Y9dI/AAAAAAAAE_Y/qowQZAqWNQoDjsutEvf5GeLMQfiuiV6QQCLcB/s1600/lobo.jpg" width=100%>
+   </div>
+   <div class="col-lg-8">
+     <div class="row">
+       <div class="col-xl-8 bg-dark text-white">
+       <h1>LOBO GRIS</h1>
+       </div>
+       <div class="col-lg-4">
+        <img src="https://p4.wallpaperbetter.com/wallpaper/134/965/73/azedia-minimalism-mitis-wallpaper-preview.jpg " width=100%>
+       </div>
+     </div>
+     <div class="row">
+       <div class="col-lg-8 bg-dark text-white">
+        <h1>Canis lupus</h1>
+       </div>
+       <div class="col-sm-2">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7rAn89g5a7_UutAWrNTLotmjSD1QBeMmzoQ&usqp=CAU" width=100%>
+       </div>
+      </div>
+      <div class="row">
+       <div class="col-sm-2">
+         <img src="https://phantom-elmundo.unidadeditorial.es/22ffece0e5d8b3fa6ea6357a01fba5f5/resize/473/f/webp/assets/multimedia/imagenes/2020/01/23/15797713209129.jpg" width=100%>
+       </div>
+       <div class="col-sm-2">
+         <img src="https://www.cooperativa.cl/noticias/site/artic/20200531/imag/foto_0000000620200531115917.jpg" width=100%>
+       </div>
+       <div class="col-sm-2">
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAGccfo3laWaQidE9uwHnfwswAIN7j8HGemw&usqp=CAU" width=100%>
+       </div>
+       <div class="col-sm-2">
+          <img src="https://img.unocero.com/2019/09/Instagram-dark-mode.jpg" width=100%>
+       </div>
+       <div class="col-sm-2">
+         <img src="https://static3.elcorreo.com/www/multimedia/202004/23/media/cortadas/1565689109_969444_1565689520_noticia_normal-k3LD--984x468@El%20Correo.jpg" width=100%>
+       </div>
+       <div class="col-sm-2">
+         <img src="https://i.pinimg.com/originals/9f/14/f1/9f14f1a6cb8e34a8263371536541d9b9.png" width=100%>
+       </div>
+      
+      </div>
+     
+   </div>
+ </div>
+ <div class="row ">
+   <div class="col-lg-8">
+     <div class="row">
+       <div class="container">
+         <h1>Informacion General</h1>
+         <p>cosas importantes.</p>
+       </div>
+      </div>
+      <div class="row">
+       <div class="col" >
+         <div class="container">
+         <h1>Etimología:</h1>
+         <p>El término "lobo" deriva del latín lupus, con el mismo significado. En zoología se usa también para definir una especie de pez teleósteo de doce centímetros de largo, un pez selacio de dos metros de longitud, para el mamífero similar a la foca, si se añade el adjetivo "marino", y para el lince, si se añade el adjetivo "cerval". También designa una máquina usada en hilandería para el trabajo del algodón y como sinónimo de embriaguez (en desuso). En Perú se usa como sinónimo de astuto.</p>
+       </div>
+       </div>
+       <div class="col" >
+          <div class="container">
+         <h1>Paleontología:</h1>
+         <p>Miacis es un representante de un grupo de carnívoros primitivos que fueron los antepasados de los carnívoros modernos (orden Carnivora), pero solo la especie Miacis cognitus es un auténtico carnívoro.6​ Así pues, Miacis puede ser considerado el género de mamíferos carnívoros precursor de los caniformes modernos. Se cree que el antepasado común de los miácidos y de los viverrávidos (los carnívoros basales precursores de los feliformes) vivió durante el final del Cretácico superior.</p>
+       </div>
+       </div>
+       <div class="col" >
+         <div class="container">
+         <h1>Anatomía</h1>
+         <p>El peso y tamaño del lobo puede variar considerablemente a lo largo del mundo, y tiende a incrementarse proporcionalmente con la latitud, como predijo la regla de Bergmann. En términos generales la altura varía entre los 60 y los 90 cm hasta el hombro, y tienen un peso de entre 32 y 70 kg.</p>
+       </div>
+       </div>
+      </div>
+      
+    </div>
+
+    <div class="col-lg-4 bg-secondary">
+      <div class="row">
+        <div class="container">
+         <h1>INFO</h1>
+        </div>
+      </div>
+      <div class="row">
+       <div class="col">
+         <div class="row">
+           Nombre científico:
+         </div>
+         <div class="row">
+            Masa Corporal:
+         </div>
+         <div class="row">
+           Promedio de vida
+         </div>
+         <div class="row">
+           Altura:
+         </div>
+         <div class="row">
+           Velocidad:
+         </div>
+         <div class="row">
+           Longitud: 
+         </div>
+
+        </div>
+       <div class="col">
+         <div class="row">
+           Canis lupus
+         </div>
+         <div class="row">
+            Macho: 30 – 80 kg (Adulto)
+         </div>
+         <div class="row">
+           6 – 8 años (En libertad)
+         </div>
+         <div class="row">
+            66 – 81 cm (Adulto, Al hombro)
+         </div>
+         <div class="row">
+            50 – 60 km/h (Corriendo)
+         </div>
+         <div class="row">
+           1.2 – 2 m (Adulto)
+         </div>
+
+        </div>
+      </div>
+  
+    </div>
+  
+  </div>
+ <div class="row">
+   <div class="col">
+     <div class="container bg-primary">
+         <h1>SUB-especies</h1>
+         <ul>
+           <li>Canis lupus familiaris, perro doméstico.</li>
+           <li>Canis lupus lupus, Europa y Asia.</li>
+           <li>Canis lupus albus, Norte de Rusia.</li>
+           <li>Canis lupus arctos, Ártico canadiense.</li>
+           <li>Canis lupus baileyi, México y suroeste de Estados Unidos.</li>
+           <li>Canis lupus manningi, Este de Groenlandia.</li>
+          </ul> 
+      </div>
+   </div>
+   <div class="col bg-danger">
+     <div class="row">
+      Imganes
+      </div>
+      <div class="row">
+         <div class="col" >
+           <img src="https://media.metrolatam.com/2019/06/12/stevepexels-505f4770e8824e24ac6ff0b34a763e1c-600x400.jpg " width=100%>
+         </div>
+         <div class="col" style="background-color:orange;">
+           <img src="https://media.metrolatam.com/2019/06/12/stevepexels-505f4770e8824e24ac6ff0b34a763e1c-600x400.jpg " width=100%>
+         </div>
+         <div class="col" style="background-color:lavender;">
+           <img src="https://media.metrolatam.com/2019/06/12/stevepexels-505f4770e8824e24ac6ff0b34a763e1c-600x400.jpg " width=100%>
+         </div>
+      </div>
+    </div>
+  </div>
+  
+
+</body>
+</html>
+
